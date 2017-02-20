@@ -11,7 +11,7 @@ This is a yeast bread recipe for Czech trdelníky, those delicous, round, tradit
 * 1 whisk or fork
 * 1 small basting brush
 * 1 plate (paper ok)
-* 8 8oz, or 4 12oz, mason jars, ~2.5in diameter
+* 4 12oz or 8 8oz, mason jars, ~2.5in diameter ([Example](https://www.walmart.com/ip/Ball-12-Count-12-Ounce-Jelly-Jars-with-Lids-and-Bands/21290194))
 * parchment paper
 * 2-4 small metal binder clips
 * 1-2 large baking tray(s) or pan(s)
