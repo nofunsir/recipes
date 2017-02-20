@@ -54,7 +54,7 @@ This is a yeast bread recipe for Czech trdelníky, those delicous, round, tradit
 8. Cover the jars in aluminum foil. 3 Tips I discovered from trial and error: Don't cover the ridge! The foil won't want to come off the hot jars and you'll damage the Ttrdelník trying to get it off. Also, roll the end into a long point so you have something to pull on to get it off the hot jar. Lightly butter the foil.
 9. In large bowl, make cinnamon sugar: mix 0.5C (100g) sugar + 2t (5.2g) ground cinnamon. Pour out onto paper plate and set aside.
 10. Cover pan in parchment paper and attach with binder clips.
-11. Preheat oven to 400F (200C).
+11. Preheat oven to 400F (205C).
 12. Make egg wash in small bowl: whisk 1t (5mL) water + 1 egg. Set aside.
 13. Cut risen dough in half and make two dough balls. Then cut each into quarters so you have 8 evenly-sized pieces, even if you are only making 4 big trdelníky. Otherwise, the dough will be too hard to handle.
 14. Make dough snakes with your hands! Roll the pieces of dough between your palms, and press hard to make the dough stretch out. Each strand should be 2-3ft (0.5-1m) long, and about the size of a finger.
