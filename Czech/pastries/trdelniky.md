@@ -4,38 +4,40 @@ This is a yeast bread recipe for Czech trdelníky, those delicous, round, tradit
 
 ## Supplies
 
-2 small bowls
-1 medium mixing bowl
-1 large mixing bowl
-1 mixing spoon or mixer
-1 whisk or fork
-1 small basting brush
-1 plate (paper ok)
-8 8oz, or 4 12oz, mason jars, ~2.5in diameter
-parchment paper
-2-4 small metal binder clips
-1-2 large baking tray(s) or pan(s)
-1 oven :)
+* 2 small bowls
+* 1 medium mixing bowl
+* 1 large mixing bowl
+* 1 mixing spoon or mixer
+* 1 whisk or fork
+* 1 small basting brush
+* 1 plate (paper ok)
+* 8 8oz, or 4 12oz, mason jars, ~2.5in diameter
+* parchment paper
+* 2-4 small metal binder clips
+* 1-2 large baking tray(s) or pan(s)
+* 1 oven :)
 
 ## Ingredients
 
 ### Drys
-2.5C all-purpose flour
-3T + 1t + 0.5C sugar (divided)
-2.25t instant yeast (1 envelope)
-2t ground cinnamon 
+* 2.5C all-purpose flour
+* 3T + 1t + 0.5C sugar (divided)
+* 2.25t instant yeast (1 envelope)
+* 2t ground cinnamon 
 
 ### Wets
-0.25C + 0.25C warm milk (divided)
-0.25C softened butter
-1-2t cold butter (grease for the jars)
-3 eggs
-1t water
+* 0.25C + 0.25C warm milk (divided)
+* 0.25C softened butter
+* 1-2t cold butter (grease for the jars)
+* 3 eggs
+* 1t water
 
 ## Prep Time
+
 45 min
 
 ## Bake Time
+
 15-25 min @ 400F
 
 ## Steps
