@@ -10,6 +10,7 @@ This is a yeast bread recipe for Czech trdelníky, those delicous, round, tradit
 * 1 medium mixing bowl
 * 1 large mixing bowl
 * 1 mixing spoon or mixer
+* 1 towel
 * 1 whisk or fork
 * 1 small basting brush
 * 1 plate (paper ok)
