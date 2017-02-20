@@ -1,6 +1,6 @@
 # Czech Trdelníky
 
-This is a yeast bread recipe for Czech trdelníky, those delicous, round, traditional Czech winter street market treats!
+This is a yeast bread recipe for Czech trdelníky, those delicious, round, traditional Czech winter street market treats!
 
 ![Image of Trdelníky](https://raw.githubusercontent.com/nofunsir/recipes/master/images/trdelniky.png)
 
@@ -62,6 +62,6 @@ This is a yeast bread recipe for Czech trdelníky, those delicous, round, tradit
 15. Holding the greased jars upside down and without their lids, neatly spiral wrap each dough strand around the foil-covered jars. Start from just below the ridge, and wrap toward the bottom of the jar. Don't leave large gaps or tears. For large trdelníky, use 2 strands on a single 12oz (350mL) jar, joining the ends by pressing one onto another. This recipe will make 4 large trdelníky.
 16. Evenly baste the trdelníky in the egg wash, roll them in cinnamon sugar, and place them on the baking sheet spaced evenly with the top of the jar downward.
 17. Bake at 400F (205C) for 15-25 min. Keep a very watchful eye on them!
-18. Remove the pastreis the from HOT jars by gently pulling the aluminum foil off the jar, and discarding the aluminum.
+18. Remove the pastries the from HOT jars by gently pulling the aluminum foil off the jar, and discarding the aluminum.
 19. Enjoy warm! Re-heat in microwave on 80% power for 20-30 seconds.
 20. Dobrou Chuť!
