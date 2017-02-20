@@ -1,2 +1,2 @@
 # Nofunsir's Recipes
-My Recipes. Enjoy!
+My recipe collection. Enjoy!
