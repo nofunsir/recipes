@@ -45,8 +45,8 @@ This is a yeast bread recipe for Czech trdelníky, those delicous, round, tradit
 ## Steps
 
 1. In a small bowl, proof the yeast for ~10 min with 1t (4g) sugar and 0.25C (60mL) warm milk. Do not overheat milk or you risk killing the yeast.
-2. In medium mixing bowl, mix the sugar & flour.
-3. In large mixing bowl, mix 2 eggs, butter and proofed yeast.
+2. In medium mixing bowl, mix the 3T (37g) sugar and 2.5C (300g) flour.
+3. In large mixing bowl, mix 2 eggs, 0.25C (60g) softened or melted butter and proofed yeast.
 4. Slowly mix in sugar+flour mixture into the large bowl. (Drys into wets when baking!)
 5. Add in remaining 0.25C (60mL) warm milk, mix on low speed until blended.
 6. Knead dough for 5 min. One of those Kitchen Aids with a hook will work, too.
