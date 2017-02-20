@@ -2,6 +2,8 @@
 
 This is a yeast bread recipe for Czech trdelníky, those delicous, round, traditional Czech winter street market treats!
 
+![Image of Trdelníky](https://raw.githubusercontent.com/nofunsir/recipes/master/images/trdelniky.png)
+
 ## Supplies
 
 * 2 small bowls
